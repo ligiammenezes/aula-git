@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(120, 59, 177);
+    color: white;
+    padding: 10px;
+    border: 10px solid pink
+
+}
+body h1{
+    color: rgb(255, 192, 203);
+    text-align: center;
+    
+}
+body h2{
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+
+}
+body h3{
+    text-align: center;
+}
